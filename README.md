@@ -8,3 +8,4 @@
 - Leave app via home screen
 - Open other app
 - Return to demo app
+- Restore the gif by clicking on Restore
